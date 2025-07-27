@@ -25,7 +25,7 @@ This project is a real-time simulation of particle-based fluid dynamics with an 
 
 - **Tzu3D Engine:** [Download and install from tzu3d.com](http://www.tzu3d.com/)
 - **.NET Framework:** Compatible with .NET Framework 4.7.2+ (or as required by Tzu3D)
-- **Visual Studio 2022:** Recommended for building and running the project
+- **Visual Studio:** Recommended for building and running the project
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ This project is a real-time simulation of particle-based fluid dynamics with an 
 2. **Clone or Download this Repository:**  
    Place the project files in your preferred directory.
 
-3. **Open in Visual Studio 2022:**  
+3. **Open in Visual Studio:**  
    Open the solution file or the main `.vb` file.
 
 4. **Add References:**  
@@ -47,18 +47,3 @@ This project is a real-time simulation of particle-based fluid dynamics with an 
 ## Project Structure
 
 - **Game.vb:** Main simulation logic, rendering, and input handling.
-- **Tzu3D Engine:** Handles graphics, input, and window management (external dependency).
-
-## Credits
-
-- **Engine:** [Tzu3D Engine](http://www.tzu3d.com/)
-- **Author:** [Your Name Here]
-
-## License
-
-This project is for educational and demonstration purposes. See [Tzu3D's license](http://www.tzu3d.com/) for engine usage terms.
-
----
-
-*This README was generated based on the code and project structure. For questions or contributions, please open an issue or pull request.*
-
